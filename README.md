@@ -1,4 +1,4 @@
-## Hi there 👋
+## Halo Dunia 👋
 
 <!--
 **FaridF25/FaridF25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning Java and Python
+
+![Help](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnYycmVidDE1d28xbWZtaWZrcm81amdocTNlM2FicHJkdTB6b290cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pUVOeIagS1rrqsYQJe/giphy.gif)
